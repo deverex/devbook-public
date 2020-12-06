@@ -2,6 +2,15 @@
 DevBook is a social media platform for developers. Create a developer profile/portfolio, share posts and get help from other developers.
 Check out the live project [here](https://aqueous-sierra-51843.herokuapp.com/). 
 
+# Tech Stack
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+
 # Quick Start 🚀
 
 ### Add a default.json file in config folder with the following
